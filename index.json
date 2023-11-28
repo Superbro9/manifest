@@ -1,37 +1,78 @@
 {
     "servers": [
         {
-            "region": "gb",
-            "regionDisplay": "Great Britain",
-            "country": "uk",
-            "countryDisplay": "United Kingdom",
-            "name": "UK 1",
-            "url": "https://uk1.watchtube.app/"
+            "region": "de",
+            "regionDisplay": "Europe",
+            "country": "de",
+            "countryDisplay": "Germany",
+            "name": "artemislena",
+            "url": "https://yt.artemislena.eu"
         },
         {
-            "region": "gb",
-            "regionDisplay": "Great Britain",
-            "country": "uk",
-            "countryDisplay": "United Kingdom",
-            "name": "UK 2",
-            "url": "https://uk2.watchtube.app/"
+            "region": "fr",
+            "regionDisplay": "Europe",
+            "country": "fr",
+            "countryDisplay": "France",
+            "name": "privacydev",
+            "url": "https://invidious.privacydev.net"
         },
-
-{
+        {
+            "region": "se",
+            "regionDisplay": "Europe,
+            "country": "se",
+            "countryDisplay": "Sweden",
+            "name": "no-logs",
+            "url": "https://invidious.no-logs.com"
+        },
+        
+        {
             "region": "na",
             "regionDisplay": "North America",
             "country": "us",
             "countryDisplay": "United States",
-            "name": "US East 2",
-            "url": "https://useast2.watchtube.app/"
+            "name": "puffyan",
+            "url": "https://vid.puffyan.us"
         },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "slipfox",
+            "url": "https://invidious.slipfox.xyz"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "invidious.io.lol",
+            "url": "https://invidious.io.lol"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "asir",
+            "url": "https://invidious.asir.dev"
+        },
+        
         {
             "region": "asia",
             "regionDisplay": "Asia",
             "country": "in",
             "countryDisplay": "India",
-            "name": "India 1",
-            "url": "https://in1.watchtube.app/"
+            "name": "projectsegfau",
+            "url": "https://inv.in.projectsegfau.lt"
+        },
+        {
+            "region": "asia",
+            "regionDisplay": "Asia",
+            "country": "jp",
+            "countryDisplay": "Japan",
+            "name": "onion.tube",
+            "url": "https://onion.tube"
         }
     ]
 }
