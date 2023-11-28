@@ -1,7 +1,7 @@
 {
     "servers": [
         {
-            "region": "de",
+            "region": "eu",
             "regionDisplay": "Europe",
             "country": "de",
             "countryDisplay": "Germany",
@@ -9,7 +9,7 @@
             "url": "https://yt.artemislena.eu"
         },
         {
-            "region": "fr",
+            "region": "eu",
             "regionDisplay": "Europe",
             "country": "fr",
             "countryDisplay": "France",
@@ -17,7 +17,7 @@
             "url": "https://invidious.privacydev.net"
         },
         {
-            "region": "se",
+            "region": "eu",
             "regionDisplay": "Europe,
             "country": "se",
             "countryDisplay": "Sweden",
