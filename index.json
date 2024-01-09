@@ -11,14 +11,6 @@
         {
             "region": "eu",
             "regionDisplay": "Europe",
-            "country": "fr",
-            "countryDisplay": "France",
-            "name": "privacydev",
-            "url": "https://invidious.privacydev.net"
-        },
-        {
-            "region": "eu",
-            "regionDisplay": "Europe",
             "country": "de",
             "countryDisplay": "Germany",
             "name": "melmac",
