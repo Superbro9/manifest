@@ -5,25 +5,16 @@
             "regionDisplay": "Europe",
             "country": "de",
             "countryDisplay": "Germany",
-            "name": "artemislena",
-            "url": "https://yt.artemislena.eu"
+            "name": "datura",
+            "url": "https://iv.datura.network"
         },
         {
             "region": "eu",
             "regionDisplay": "Europe",
             "country": "de",
             "countryDisplay": "Germany",
-            "name": "melmac",
-            "url": "https://iv.melmac.space"
-        },
-        
-        {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "puffyan",
-            "url": "https://vid.puffyan.us"
+            "name": "protokolla",
+            "url": "https://invidious.protokolla.fi"
         },
         {
             "region": "na",
@@ -38,24 +29,16 @@
             "regionDisplay": "North America",
             "country": "us",
             "countryDisplay": "United States",
-            "name": "slipfox",
-            "url": "https://invidious.slipfox.xyz"
+            "name": "puffyan",
+            "url": "https://vid.puffyan.us"
         },
         {
             "region": "na",
             "regionDisplay": "North America",
             "country": "us",
             "countryDisplay": "United States",
-            "name": "ggtyler.dev",
-            "url": "https://iv.ggtyler.dev"
-        },
-        {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "projectsegfau",
-            "url": "https://inv.us.projectsegfau.lt"
+            "name": "drgns.space",
+            "url": "invidious.drgns.space"
         },
         {
             "region": "asia",
@@ -64,6 +47,22 @@
             "countryDisplay": "Australia",
             "name": "perennialte",
             "url": "https://invidious.perennialte.ch"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "slipfox",
+            "url": "https://invidious.slipfox.xyz"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "projectsegfau",
+            "url": "https://inv.us.projectsegfau.lt"
         }
     ]
 }
