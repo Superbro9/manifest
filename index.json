@@ -33,14 +33,6 @@
             "url": "https://vid.puffyan.us"
         },
         {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "drgns.space",
-            "url": "invidious.drgns.space"
-        },
-        {
             "region": "asia",
             "regionDisplay": "Asia",
             "country": "au",
