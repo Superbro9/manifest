@@ -17,12 +17,44 @@
             "url": "https://invidious.protokolla.fi"
         },
         {
+            "region": "eu",
+            "regionDisplay": "Europe",
+            "country": "ro",
+            "countryDisplay": "Romania",
+            "name": "flokinet",
+            "url": "https://invidious.flokinet.to"
+        },
+        {
+            "region": "eu",
+            "regionDisplay": "Europe",
+            "country": "fr",
+            "countryDisplay": "France",
+            "name": "projectsegfau (FR)",
+            "url": "https://invidious.projectsegfau.lt"
+        },
+        {
             "region": "na",
             "regionDisplay": "North America",
             "country": "ca",
             "countryDisplay": "Canada",
             "name": "n8pji",
             "url": "https://inv.n8pjl.ca"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "puffyan",
+            "url": "https://vid.puffyan.us"
+        },
+        {
+            "region": "na",
+            "regionDisplay": "North America",
+            "country": "us",
+            "countryDisplay": "United States",
+            "name": "projectsegfau (US)",
+            "url": "https://inv.us.projectsegfau.lt"
         },
         {
             "region": "asia",
@@ -39,14 +71,6 @@
             "countryDisplay": "United States",
             "name": "slipfox",
             "url": "https://invidious.slipfox.xyz"
-        },
-        {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "projectsegfau",
-            "url": "https://inv.us.projectsegfau.lt"
         }
     ]
 }
