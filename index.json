@@ -59,18 +59,18 @@
         {
             "region": "asia",
             "regionDisplay": "Asia",
-            "country": "au",
-            "countryDisplay": "Australia",
-            "name": "perennialte",
-            "url": "https://invidious.perennialte.ch"
+            "country": "jp",
+            "countryDisplay": "Japan",
+            "name": "owacon",
+            "url": "https://youtube.owacon.moe"
         },
         {
-            "region": "na",
-            "regionDisplay": "North America",
-            "country": "us",
-            "countryDisplay": "United States",
-            "name": "slipfox",
-            "url": "https://invidious.slipfox.xyz"
+            "region": "asia",
+            "regionDisplay": "Asia",
+            "country": "jp",
+            "countryDisplay": "Japan",
+            "name": "jing.rocks",
+            "url": "https://invidious.jing.rocks"
         }
     ]
 }
