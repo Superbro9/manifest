@@ -61,14 +61,6 @@
             "regionDisplay": "Asia",
             "country": "jp",
             "countryDisplay": "Japan",
-            "name": "owacon",
-            "url": "https://youtube.owacon.moe"
-        },
-        {
-            "region": "asia",
-            "regionDisplay": "Asia",
-            "country": "jp",
-            "countryDisplay": "Japan",
             "name": "jing.rocks",
             "url": "https://invidious.jing.rocks"
         }
